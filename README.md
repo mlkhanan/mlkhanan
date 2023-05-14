@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlkhanan" alt="mlkhanan" /></a> </p>
 
-- 🌱 I’m currently learning **Devps**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **mlk_hanan@hotmail.com**
 
