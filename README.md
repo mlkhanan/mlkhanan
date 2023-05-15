@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdil Hanan.</h1>
+<h1 align="center">Hi 👋, I'm Abdul Hanan.</h1>
 <h3 align="center">Empowering Success through Technical Expertise and Creative Problem-Solving.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlkhanan" alt="mlkhanan" /></a> </p>
